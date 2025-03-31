@@ -1,12 +1,12 @@
 
-function Hobby1() {
+function Hobby2() {
     return (
         <>
-            <img src="" alt="Pedro's img">Pedro TODO: Take image from last project</img>
+            <img src="/PC_Banner.jpeg" alt="Pedro's img" />
             <p>Pedro TODO: Introduce your Hobby</p>
 
         </>
     );
 }
 
-export default Hobby1;
+export default Hobby2;
