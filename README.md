@@ -26,6 +26,3 @@ Use the App.css stylesheet for all components, except create a list.css and with
 * Use Webstorm to clone this repository on your computer.
   * Close any currently open projects.
   * Click on `Get from VCS` and enter the URL of your GitHub assignment2b repo
-
-
-
