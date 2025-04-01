@@ -1,7 +1,7 @@
 
 function Form1() {
     return (
-        <>
+        <div className="form-container">
             <h2>Contact Me</h2>
             <form>
                 <label>
@@ -80,7 +80,7 @@ function Form1() {
 
                 <input type="submit" value="Submit"/>
             </form>
-        </>
+        </div>
     );
 }
 

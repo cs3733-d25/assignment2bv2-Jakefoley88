@@ -2,16 +2,16 @@
 
 function Table1() {
     return (
-      <>
-          Missions I am excited about:
+      <div className="table-container">
+          <h2>Missions I am excited about:</h2>
           <hr />
 
           <table className="collapse">
               <tbody>
               <tr>
-                  <td>Mission Name:</td>
-                  <td>Date:</td>
-                  <td>Company:</td>
+                  <th>Mission Name:</th>
+                  <th>Date:</th>
+                  <th>Company:</th>
               </tr>
               </tbody>
               <tbody>
@@ -36,7 +36,7 @@ function Table1() {
               </tr>
               </tbody>
           </table>
-      </>
+      </div>
 
     );
 }
